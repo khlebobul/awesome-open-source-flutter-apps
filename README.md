@@ -1053,6 +1053,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
 | HelpingHand | [Link](https://github.com/HarshCasper/HelpingHand) | Leveraging Intelligent Processing Tools and Algorithms to help the Visually Impaired see and navigate |
+| Gaze Control | [Link](https://github.com/Deep-SkyLabs/gaze-control) | An accessibility app that enables users to perform swipe and scroll gestures using eye, head and hand tracking. |
 
 ### Religion
 
