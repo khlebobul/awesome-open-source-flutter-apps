@@ -813,6 +813,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | TurtleOTT | [Link](https://github.com/fastogt/TurtleOTT) | A crossplatform iptv/ott/streaming player |
 | tv-randshow              | [Link](https://github.com/deandreamatias/tv-randshow) | App to choose a random TV show episode  |
 | Watch | [Link](https://github.com/diptanshumahish/watch) | A movies/web series recommendation app. |
+| MVVM-Riverpod Movies App | [Link](https://github.com/armaanjamadar/mvvm-riverpod-movies-app) | A movies app built using the MVVM architecture and Riverpod state management. |
 
 ### News & Feed
 
