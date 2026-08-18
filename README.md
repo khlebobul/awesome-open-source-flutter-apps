@@ -831,6 +831,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Raven | [Link](https://github.com/ksh-b/raven) | This app uses APIs and web scraping to fetch news articles |
 | RSSAid | [Link](https://github.com/LeetaoGoooo/RSSAid) | RSSAid is a complementary app for RSSHub built with Flutter |
 | spacex-go | [Link](https://github.com/jesusrp98/spacex-go) | Simple yet powerful, open-source SpaceX launch tracker |
+| Dondurma RSS Reader | [Link](https://github.com/DevOpen-io/dondurma-rss-reader) | A modern open-source RSS/Atom feed reader built with Flutter, featuring offline reading, full-text extraction, OPML import/export, notifications, and cross-platform support. |
 
 ### Chat & Messaging
 
