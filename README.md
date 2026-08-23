@@ -126,6 +126,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Cashew                   | [Link](https://github.com/jameskokoska/Cashew)                   | 💸 An app created to help users manage a budget and purchases |
 | cone | [Link](https://github.com/bradyt/cone) | A ledger. |
 | Currency alarm | [Link](https://github.com/shurygindv/currency-alarm) | currency flutter app |
+| Finzo | [Link](https://github.com/AHS-Mobile-Labs/finzo) | A fully offline, privacy-first personal finance manager for tracking expenses, budgets, accounts, loans, credit cards, investments, and cash flow. |
 | flutter-vizier-challenge | [Link](https://github.com/merixstudio/flutter-vizier-challenge)  | Prototype of a financial mobile application. |
 | MarketMonk | [Link](https://github.com/brandonp2412/marketmonk) | Track stocks on any platform |
 | mmas-money-tracker | [Link](https://github.com/floranguyen0/mmas-money-tracker) | An optimized application for daily expense tracking and personal finance management |
