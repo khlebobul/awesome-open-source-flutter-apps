@@ -804,6 +804,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | MovieLab | [Link](https://github.com/erfanrht/movielab) | An open source movie tracker and movie finder. |
 | Movies App | [Link](https://github.com/vellt/movies-app-flutter) | MoviesApp based on themoviedb API |
 | movies_app               | [Link](https://github.com/Roaa94/movies_app) | Directory for movies and famous people  |
+| MVVM-Riverpod Movies App | [Link](https://github.com/armaanjamadar/mvvm-riverpod-movies-app) | Movies app built using the MVVM architecture and Riverpod |
 | namida                   | [Link](https://github.com/namidaco/namida) | A Beautiful and Feature-rich Music & Video Player with Youtube Support |
 | PeerTube | [Link](https://framagit.org/framasoft/peertube/mobile-application) | Browse, watch, and interact with content from thousands of PeerTube instances |
 | pilipala                 | [Link](https://github.com/guozhigq/pilipala) | PiliPala is a third-party BiliBili client developed using Flutter. |
@@ -813,7 +814,6 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | TurtleOTT | [Link](https://github.com/fastogt/TurtleOTT) | A crossplatform iptv/ott/streaming player |
 | tv-randshow              | [Link](https://github.com/deandreamatias/tv-randshow) | App to choose a random TV show episode  |
 | Watch | [Link](https://github.com/diptanshumahish/watch) | A movies/web series recommendation app. |
-| MVVM-Riverpod Movies App | [Link](https://github.com/armaanjamadar/mvvm-riverpod-movies-app) | A movies app built using the MVVM architecture and Riverpod state management. |
 
 ### News & Feed
 
