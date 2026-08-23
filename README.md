@@ -747,6 +747,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | BloomeeTunes        | [Link](https://github.com/HemantKArya/BloomeeTunes)  | A music app designed to bring you ad-free tunes from various sources.  |
 | Chillify | [Link](https://github.com/karimelghamry/chillify) | Music App made with flutter |
 | ClassiPod | [Link](https://github.com/adeeteya/Classipod) | A local music player app designed to capture the nostalgic essence of the iconic iPod Classic |
+| Dacx | [Link](https://github.com/BurntToasters/Dacx) | Fast cross-platform desktop music and video player for Windows, macOS, and Linux (Flutter + libmpv) |
 | DJ Edertech App | [Link](https://gitlab.com/ederson-itabaiana/dj_edertech) | Immerse yourself in the nostalgic beats spanning various music genres |
 | Drip | [Link](https://github.com/spsden/drip) | A Youtube Music client for Desktop. (in Development) |
 | Echo MPD | [Link](https://github.com/rd6260/echo_mpd) | A beautiful, modern, and feature-rich mobile client for Music Player Daemon (MPD) |
