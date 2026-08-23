@@ -1082,7 +1082,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Quran Revision Companion | [Link](https://github.com/waqar144/quran_memorization_helper) | An app to help huffaz revise Quran |
 | Sirat-E-Mustaqeem | [Link](https://github.com/muhammadtalhasultan/Sirat-E-Mustaqeem) | Islamic App with Complete Quran, Prayer time Api, Hadith, & Qibla Direction. |
 | The Life | [Link](https://gitlab.com/hotlittlewhitedog/biblethelife) | Bible in multiple languages - English, French, Italian, Spanish, Portuguese. |
-
+| Huda | [Link](https://github.com/abdulwahed-s/huda) | A comprehensive Islamic companion app with 50+ features and support for 10 languages. |
 ### Boilerplate
 
 | Project    | Repo  | Description  |
