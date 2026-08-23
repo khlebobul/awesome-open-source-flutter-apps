@@ -818,6 +818,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 
 | Project    | Repo  | Description  |
 |:-----------|:------|:-------------|
+| Dondurma RSS Reader | [Link](https://github.com/DevOpen-io/dondurma-rss-reader) | A modern RSS/Atom feed reader with offline reading, full-text extraction, OPML import/export, notifications, and cross-platform support |
 | Flews | [Link](https://github.com/jbarr21/flews) | A news client displaying top stories from Hacker News, Reddit's r/AndroidDev, Imgur's most viral, and GitHub top Java repos |
 | fluent-reader-lite | [Link](https://github.com/yang991178/fluent-reader-lite) | Simplistic mobile RSS client built with Flutter             |
 | FlutterNewsApp | [Link](https://github.com/theindianappguy/FlutterNewsApp)| A Flutter news app which utilizes NewsApi Org. |
@@ -831,7 +832,6 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Raven | [Link](https://github.com/ksh-b/raven) | This app uses APIs and web scraping to fetch news articles |
 | RSSAid | [Link](https://github.com/LeetaoGoooo/RSSAid) | RSSAid is a complementary app for RSSHub built with Flutter |
 | spacex-go | [Link](https://github.com/jesusrp98/spacex-go) | Simple yet powerful, open-source SpaceX launch tracker |
-| Dondurma RSS Reader | [Link](https://github.com/DevOpen-io/dondurma-rss-reader) | A modern open-source RSS/Atom feed reader built with Flutter, featuring offline reading, full-text extraction, OPML import/export, notifications, and cross-platform support. |
 
 ### Chat & Messaging
 
