@@ -89,7 +89,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Software architecture of interpreter in Dart | [Link](https://github.com/euler2dot7/interpreter) | Software architecture of interpreter in Dart (Flutter) |
 | The Widget-Maker | [Link](https://github.com/norbert515/flutter_ide) | A visual editor for Flutter widgets |
 | tldr | [Link](https://github.com/techno-disaster/tldr-flutter) | simplified man-pages, a tldr.sh client |
-| xell | [Link](https://xell.pro) | Open-source SSH client for developers and DevOps engineers |
+| xell | [Link](https://github.com/IldySilva/xell) | Open-source SSH client for developers and DevOps engineers |
 | Vide | [Link](https://github.com/Norbert515/vide_cli) | An agentic terminal UI for Claude, built for Flutter developers |
 | WidgetHub | [Link](https://github.com/yunweneric/flutter-widgethub) | Collection of UI Widgets to help developers create beautiful, functional flutter apps |
 
