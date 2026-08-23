@@ -684,6 +684,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | GPA Calculator | [Link](https://github.com/mllrr96/gpa-calculator) | Helps AUIS students calculate their GPA based on letter grades and credit hours |
 | Graded | [Link](https://github.com/nightdreamgames/graded) | Graded - Grade Tracker |
 | hamfisted | [Link](https://github.com/specht/hamfisted) | With this app you can prepare for the amateur radio exam for classes E and A. Practice all the questions and keep track of your progress. |
+| Helium | [Link](https://github.com/HeliumEdu/frontend) | Color-coded student planner for classes, homework, grades, and notes with multi-device sync. |
 | Human Benchmark | [Link](https://github.com/printn/human-benchmark) | Mobile app designed to test and improve cognitive abilities through a series of fun and challenging tests |
 | Java OOP Quiz | [Link](https://github.com/aliakrem/oopquiz) | Test and improve Object-Oriented Programming (OOP) concepts in Java |
 | JS-Dict | [Link](https://github.com/petlyh/js-dict) | Japanese-English dictionary app powered by Jisho.org |
