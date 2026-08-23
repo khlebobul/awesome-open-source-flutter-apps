@@ -1071,6 +1071,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Bibleside | [Link](https://github.com/correct-syntax/bible_side) | An offline Bible app featuring the OET (Open English Translation) |
 | elisha | [Link](https://github.com/31Carlton7/elisha) | An Offline Bible & Church App for iOS & Android.  |
 | eQuran | [Link](https://github.com/ya27hw/equran_app) | An app for reading the Holy Quran. |
+| Huda | [Link](https://github.com/abdulwahed-s/huda) | A comprehensive Islamic companion app with 50+ features and support for 10 languages. |
 | Inni di Lode | [Link](https://github.com/theFreeman96/inni-di-lode) | A Christian Songbook for Italian Churches. |
 | Librum | [Link](https://github.com/aldrinzigmundv/librum) | A free and open-source Bible verse reference app. |
 | Muslim fortress application | [Link](https://github.com/muslimpack/hisnelmoslem_app) | The application contains the complete book Hisn al-Muslim, with a search feature in the index and other features. |
