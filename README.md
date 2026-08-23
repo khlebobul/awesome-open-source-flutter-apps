@@ -110,7 +110,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Shots Studio | [Link](https://github.com/AnsahMohammad/shots-studio) | Turns screenshot folder into an intelligent, organized archive using Gemma |
 | Simple ChatGPT | [Link](https://github.com/SnowStar0423/ChatGPT-Flutter-App) | ChatGPT like app in Flutter |
 | Story Generator | [Link](https://github.com/Lord-Chris/story-generator) | A mobile app that generates random stories based on user input using Google Generative AI |
-| TealKit | [Source Code](https://github.com/lschaffer/tealkit) | A zero-config, cross-platform GUI for local AI agents, Ollama, and MCP tools. |
+| TealKit | [Link](https://github.com/lschaffer/tealkit) | A zero-config, cross-platform GUI for local AI agents, Ollama, and MCP tools. |
 
 ### Personal Finance
 
