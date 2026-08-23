@@ -1004,8 +1004,9 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 
 | Project | Repo | Description |
 |:--------|:-----|:------------|
-| Live Scores App | [Link](https://github.com/jepbura/Live-Scores-App-V3Live) | See live football and volleyball scores on your smartwatch. |
-| BFRBSys | [Link](https://github.com/xtnctx/bfrbsys) | A wrist-worn device and monitoring system for a person with Body-focused Repetitive Behavior. |
+| BFRBSys | [Link](https://github.com/xtnctx/bfrbsys) | A wrist-worn device and monitoring system for a person with Body-focused Repetitive Behavior |
+| Live Scores App | [Link](https://github.com/jepbura/Live-Scores-App-V3Live) | See live football and volleyball scores on your smartwatch |
+| OpenStrap Edge | [Link](https://github.com/OpenStrap/edge) | Reverse-engineered WHOOP 4.0 companion app — Bluetooth sync and all HRV/sleep/strain analytics computed on-device, no cloud or subscription required |
 | Reader for WearOS (Bible incl) | [Link](https://github.com/KyleFin/wear-bible-ereader) | Read epub books on your smartwatch. |
 
 
