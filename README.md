@@ -322,6 +322,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Floating Volume | [Link](https://github.com/mkalmousli/floatingvolume) | Control your device’s volume with a floating slider on Android. |
 | Frigoligo | [Link](https://github.com/casimir/frigoligo) | A wallabag client to take your links anywhere and keep them fresh! |
 | Gopeed | [Link](https://github.com/GopeedLab/gopeed) | A modern download manager that supports all platforms |
+| Helm | [Link](https://github.com/devShakib015/helm) | A macOS toolkit putting fifteen native tools in one window: storage cleaner with a treemap explorer, duplicate finder, system monitors with 24h history, clipboard manager and app uninstaller. |
 | Holidayz | [Link](https://github.com/paskozhelev/holidayz-app) | Stay Ahead with Global Public Holidays & Regional Days Off |
 | IdiomReplaceX Browser | [Link](https://github.com/idiomreplacex/idiomreplacex-app) | The IdiomReplaceX Browser App is a special browser app where IdiomReplaceX toolbox is added to almost any web page, allowing literary filters to be applied to the content of the web page |
 | Keyviz | [Link](https://github.com/softwarearchitect817/keyviz) | Let your audience know what handy shortcuts/keys you're pressing during screencasts, presentations, collaborations, or whenever you need it. |
