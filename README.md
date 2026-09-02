@@ -174,7 +174,6 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Invoice Ninja            | [Link](https://github.com/invoiceninja/admin-portal)             | Invoice Ninja: Desktop/mobile admin portal |
 | Invoice Pdf | [Link](https://github.com/sabikrahat/invoice_pdf_generate) | App to generate invoices in PDF format |
 | MiGo POS Software | [Link](https://github.com/poslevel/migo) | A POS Software that works everywhere seamlessly |
-| Mise | [Link](https://github.com/devShakib015/mise) | A complete restaurant system that runs on one Mac — till, kitchen display, QR table ordering and back office. Self-hosted and fully offline. |
 | MPoS | [Link](https://github.com/kiks12/mpos-flutter) | Mobile Point of Sale System for Four Angels Retail Shop |
 | okane | [Link](https://gitlab.com/wolfenrain/okane) | okane is an unnecessarily complicated and over-engineered invoice generator. |
 | Peercoin | [Link](https://github.com/peercoin/peercoin_flutter) | Light Peercoin wallet written in Flutter, deployable on Android, iOS and Web. |
