@@ -389,6 +389,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Ruko | [Link](https://github.com/sheeroo/ruko) | Helps clean your camera roll via Swipe to delete or keep photos in a Tinder-style UI |
 | Snap Saver | [Link](https://github.com/nielslee/snapsaver) | A camera app that makes it easier to take photos for selected albums or directories |
 | Yaga | [Link](https://github.com/vauvenal5/yaga) | Nextcloud Yaga - A Nextcloud first gallery app for Android. |
+| minimo (video) | [Link](https://github.com/minimo-pro/minimo_video) | minimo (video) is a free mobile app for shrinking videos directly on your device |
 
 ### Games & Fun
 
