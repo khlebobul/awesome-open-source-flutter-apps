@@ -102,6 +102,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | ai_buddy  | [Link](https://github.com/yatendra2001/ai_buddy)               | Your personal free-to-use AI assistant, built with gemini & flutter |
 | aidea     | [Link](https://github.com/mylxsw/aidea)                        | AIdea supports GPT and domestic LLMs Tongyi Qianwen, Wenxinyiyan, etc., and supports Stable Diffusion Wenshengtu, Tushengtu, SDXL1.0, super-resolution, and picture coloring. |
 | ChatGPT Client | [Link](https://github.com/softjapan/flutter_chatgpt) | ChatGPT Client with LINE-Style UI Built with Flutter and Riverpod |
+| d1v.ai Mobile | [Link](https://github.com/d1vai/d1vai_app) | Mobile client for d1v.ai to work with AI, inspect files, and monitor preview and deployment state |
 | Flutter Scribble | [Link](https://github.com/lahirumaramba/flutter_scribble) | Turn your scribbles into detailed images with AI |
 | FlutterVoiceFriend | [Link](https://github.com/jbpassot/flutter_voice_friend) | Build interactive, voice-driven chatbot experiences using a combination of speech-to-text (STT) and text-to-speech (TTS) |
 | HaoChat | [Link](https://github.com/conghaonet/hao_chatgpt) | An unofficial ChatGPT application |
@@ -1169,4 +1170,3 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | scroll_text_application | [Link](https://github.com/LiquidGalaxyLAB/scroll_text_application) | An application to display various types of content (such as text, images, videos, and more) on Liquid Galaxy screens. |
 | SignalMeter | [Link](https://github.com/shaxxx/signalmeter2) | Satellite Signal Meter for Enigma based receivers |
 | STEAM-Celestial-Satellite-tracker-in-real-time | [Link](https://github.com/LiquidGalaxyLAB/STEAM-Celestial-Satellite-tracker-in-real-time) | Steam Celestial Satellite tracker in real time   |
-
