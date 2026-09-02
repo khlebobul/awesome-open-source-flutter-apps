@@ -380,6 +380,7 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Image Meta Cleaner | [Link](https://gitlab.com/alimiracle/image_meta_cleaner) | A cross-platform application designed to remove metadata from images |
 | Immich | [Link](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. |
 | Libre Camera | [Link](https://github.com/iakdis/librecamera) | A free and open source camera app for Android written in Flutter and Dart |
+| minimo (video) | [Link](https://github.com/minimo-pro/minimo_video) | Mobile app for shrinking videos directly on your device |
 | OBS Blade | [Link](https://github.com/kounex/obs_blade) | Make use of the OBS WebSocket Plugin and control your stream |
 | OpenPhotoFrame | [Link](https://github.com/micw/OpenPhotoFrame) | Slideshow app to turn old Android tablet into a beautiful digital photo frame. Syncs photos from Nextcloud or local storage |
 | Panoramax | [Link](https://gitlab.com/panoramax/clients/mobile-app) | Capture photo sequences with your mobile and send these sequences to a Panoramax instance |
@@ -389,7 +390,6 @@ All the projects added in this project are featured in [fluttergems.dev](https:/
 | Ruko | [Link](https://github.com/sheeroo/ruko) | Helps clean your camera roll via Swipe to delete or keep photos in a Tinder-style UI |
 | Snap Saver | [Link](https://github.com/nielslee/snapsaver) | A camera app that makes it easier to take photos for selected albums or directories |
 | Yaga | [Link](https://github.com/vauvenal5/yaga) | Nextcloud Yaga - A Nextcloud first gallery app for Android. |
-| minimo (video) | [Link](https://github.com/minimo-pro/minimo_video) | minimo (video) is a free mobile app for shrinking videos directly on your device |
 
 ### Games & Fun
 
